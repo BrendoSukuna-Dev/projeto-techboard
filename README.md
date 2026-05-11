@@ -1,5 +1,5 @@
 <h1>🚀 Projeto TechBoard</h1>
-<img width="1861" height="958" alt="Image" src="https://github.com/user-attachments/assets/bbb06d30-d3ec-448a-ad37-61ab79dcb600" />
+<img width="1875" height="958" alt="Image" src="https://github.com/user-attachments/assets/d9a84080-fca6-4af4-bf14-c1079b8f0188" />
 <h2>🖥 Projeto Concluido ✅</h2>
 
 ## 🔗 Link do projeto
