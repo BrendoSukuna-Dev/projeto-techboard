@@ -3,7 +3,7 @@
 <h2>🖥 Projeto Concluido ✅</h2>
 
 ## 🔗 Link do projeto
-➥ https://carro-360.vercel.app
+➥ https://projeto-techboard.vercel.app
 
 ## 📋 Sobre o projeto
 <p>O TechBoard é uma Landing Page moderna desenvolvida para apresentar uma solução de monitoramento de aplicações. O foco do projeto é oferecer uma interface limpa, responsiva e visualmente impactante,
